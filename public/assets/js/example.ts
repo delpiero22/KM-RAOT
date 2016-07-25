@@ -1,0 +1,1 @@
+console.log('Welcome to My angular2 App for practice');
